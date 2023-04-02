@@ -11,7 +11,7 @@
 
     <!-- Scripts -->
 
-    <link rel="shortcut icon" type="image/png" href="{{asset('images/logo/joblister.png')}}" />
+    <link rel="shortcut icon" type="image/png" href="{{asset('images/logo/logo-color.png')}}" />
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
 

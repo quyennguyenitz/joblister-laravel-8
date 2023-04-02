@@ -41,12 +41,12 @@
         </div>
         <div class="col-sm-6 col-md-3">
           <div class="footer-links">
-            <h3 class="footer-brand mb-2">JobLister</h3>
+            <h3 class="footer-brand mb-2">TopAIdev.com</h3>
             <div class="footer-link-list">
-             <a href="#" class="footer-links"><i class="fas fa-compass"></i> Newroad,kathmadndu-64400,Nepal</a>
-             <a href="tel:98400001511" class="footer-links"><i class="fas fa-phone"></i> +977-6000-000</a>
-             <a href="tel:98400001511" class="footer-links"><i class="fas fa-mobile"></i> +977-9840003200</a>
-             <a href="mailto:info@joblister.com" class="footer-links"><i class="fas fa-envelope"></i> info@joblister.com</a>
+             <a href="#" class="footer-links"><i class="fas fa-compass"></i> Quyen Nguyen,Ho Chi Minh city,Vietnam</a>
+             <a href="tel:98400001511" class="footer-links"><i class="fas fa-phone"></i> (+84)374-594-437</a>
+             <a href="tel:98400001511" class="footer-links"><i class="fas fa-mobile"></i> (+84)374-594-437</a>
+             <a href="mailto:info@joblister.com" class="footer-links"><i class="fas fa-envelope"></i> info@topaidev.com</a>
              <div class="social-links">
                <a href="https://www.facebook.com" target="_blank" class="social-link"><i class="fab fa-facebook"></i></a>
                <a href="https://www.twitter.com"  target="_blank" class="social-link"><i class="fab fa-twitter"></i></a>

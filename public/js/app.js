@@ -7158,7 +7158,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.card-list-component {\r\n  width: 100%;\r\n  padding: 0.5rem 0.25rem;\r\n  color: #888;\r\n  cursor: pointer;\r\n  margin-bottom: 1rem;\n}\n.card-list-component:hover {\r\n  background-color: #f5fdff;\n}\n.hover-shadow:hover {\r\n  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);\n}\r\n", ""]);
+exports.push([module.i, "\n.card-list-component {\n  width: 100%;\n  padding: 0.5rem 0.25rem;\n  color: #888;\n  cursor: pointer;\n  margin-bottom: 1rem;\n}\n.card-list-component:hover {\n  background-color: #f5fdff;\n}\n.hover-shadow:hover {\n  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);\n}\n", ""]);
 
 // exports
 
@@ -7177,7 +7177,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.search-bar[data-v-6849e9f0] {\r\n  background-color: #f5fdff;\n}\r\n", ""]);
+exports.push([module.i, "\n.search-bar[data-v-6849e9f0] {\n  background-color: #f5fdff;\n}\n", ""]);
 
 // exports
 
@@ -56555,8 +56555,8 @@ var routes = [{
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\imp\job-lister-laravel-8\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! D:\imp\job-lister-laravel-8\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/it-spider/resources/works/projecs/ai_job/src/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/it-spider/resources/works/projecs/ai_job/src/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

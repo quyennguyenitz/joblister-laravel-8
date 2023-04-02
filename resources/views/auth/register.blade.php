@@ -21,7 +21,7 @@
         <div class="col-sm-12 col-md-6 px-0">
             <div class="login-container">
                 <div class="login-header mb-3">
-                    <h3><img src="{{asset('images/logo/joblister.png')}}" width="50px;" alt=""> Create your free jobseeker account</h3>
+                    <h3><img src="{{asset('images/logo/logo-color.png')}}" width="50px;" alt=""> Create your free jobseeker account</h3>
                     <p class="text-muted">Register with basic information, Complete your profile and start applying for the job for free!</p>
                 </div>
                 <div class="login-form">
@@ -83,7 +83,7 @@
                             </div>
                         </div>
                         <div>
-                            <small class="text-muted d-block mb-3">By clicking on 'Create Jobseeker Account' below you are agreeing to the terms and smallrivacy of Joblister!</p>
+                            <small class="text-muted d-block mb-3">By clicking on 'Create Jobseeker Account' below you are agreeing to the terms and smallrivacy of TopAiDev.com!</p>
                         </div>
                         <button type="submit" class="btn primary-btn btn-block">Register</button>
                     </form>
